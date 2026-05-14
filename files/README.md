@@ -7,7 +7,7 @@ A role-aware, policy-driven data governance platform built with Python and Strea
 
 | Member | Contributions |
 |--------|--------------|
-| Wenlin Zhan | Conceived the project and designed the overall zero-trust architecture. Built the core gateway engine (column-level policy enforcement, k-anonymity, differential privacy), data discovery & cataloguing module, consumer portal, and compliance audit dashboard. Led system integration and the navigation UI refactor. |
+| Wenlin Zhan | Conceived the project and designed the overall zero-trust architecture. Built the core gateway engine (column-level policy enforcement, k-anonymity, differential privacy), data discovery & cataloguing module, consumer portal, and compliance audit dashboard. Led system integration and the navigation UI refactor. Completed the presentation and recording of the team project|
 | Xinyuan Yu | Designed and implemented the user authentication system (PBKDF2-SHA256, RBAC, permission groups) and the tamper-evident audit log (hash-chained append-only log with chain integrity verification). Co-authored the project report. |
 | Zihan Dong | Designed and implemented the Policy Analyzer & Conflict Detection module (dead rule detection, coverage gap analysis, audit chain verifier, role access matrix, policy dry-run diff). Set up the Docker deployment environment. Co-authored the project report. |
 
